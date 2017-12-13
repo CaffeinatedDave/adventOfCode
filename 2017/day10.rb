@@ -18,23 +18,11 @@ def knot(list, instructions)
       after = []
     end
 
-    if b_selected.nil?
-      b_selected = []
-    end
-
-    if before.nil?
-      before = []
-    end
-
     both = selected + b_selected
     both.reverse!
 
     selected = both[0,selected.length]
     b_selected = both[selected.length, b_selected.length]
-
-    if b_selected.nil?
-      b_selected = []
-    end
 
     list = b_selected + before
     list += selected
@@ -47,17 +35,19 @@ def knot(list, instructions)
 end
 
 input = "70,66,255,2,48,0,54,48,80,141,244,254,160,108,1,41"
-
 list1 = *(0..255)
-part1 = knot(list1, input.split(',').map{|x| x.to_i})
+instructions1 = input.split(',').map{|x| x.to_i}
+part1 = knot(list1, instructions1)
 puts "Part 1: #{part1}"
 puts "Answer: #{part1[0] * part1[1]}"
 puts ""
 
-instructions = (input.split('').map{|x| x.ord} + [17, 31, 73, 47, 23]) * 64
+#Start part 2:
 
 list2 = *(0..255)
-part2 = knot(list2, instructions)
+instructions2 = (input.split('').map{|x| x.ord} + [17, 31, 73, 47, 23]) * 64
+
+part2 = knot(list2, instructions2)
 
 start = {}
 start.default = 0
