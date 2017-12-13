@@ -68,5 +68,5 @@ end
 
 puts "Part2: #{part2}"
 start.each do |k, v|
-  print "#{(v/16).to_s(16)}#{(v%16).to_s(16)}"
+  print "#{v.to_s(16)}"
 end
