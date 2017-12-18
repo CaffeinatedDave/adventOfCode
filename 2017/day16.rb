@@ -41,9 +41,6 @@ cycleSize = 0
   if cycle == 1
     puts "First pass: #{order.join}"
   end
-  if cycle % 1000 == 0
-    print "."
-  end
 end
 
 puts "Billion passes: #{order.join}"
