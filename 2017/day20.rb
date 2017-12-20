@@ -1020,11 +1020,11 @@ lowestAcc = 99999
 slowest = -1
 
 # lazy, but after 25k iterations, most particles should be out of range of others
-# Logic: Min acc is 2, max positional co-ord is ~12k
-(1..1).each do |it|
+# Logic: Min acc is 2, max positional co-ord is ~12k... Probably finishes early,
+# so output printed... 
+(1..25000).each do |it|
 
-  newPos = {}
-  newPos.default = []
+  newPos = Hash.new(nil)
 
   instructions.each_with_index do |ins, inx|
     ins["v"][0] += ins["a"][0]
@@ -1047,29 +1047,25 @@ slowest = -1
 
     position = "#{ins["p"][0]},#{ins["p"][1]},#{ins["p"][2]}"
 
-    newPos[position] << ins
-
-    print "#{position} :: #{newPos[position].take(2).join(",")}"
-    if newPos[position].length > 2
-      print ",... (#{newPos[position].length})"
+    if newPos[position].nil?
+      newPos[position] = []
     end
-    puts ""
-  end
-
-  if (it == 1)
-    puts "Particle #{slowest} is slowest at a max acc of #{lowestAcc}"
+    newPos[position] << ins
   end
 
   newIns = []
 
   newPos.each do |k, v|
-    puts "#{k} :: #{v.join(", ")}"
     if v.length == 1
       newIns << v[0]
     end
   end
 
   instructions = newIns
+
+  if (it == 1)
+    puts "Particle #{slowest} is slowest at a max acc of #{lowestAcc}"
+  end
 
   puts "#{it}: #{instructions.length} remain..."
 end
