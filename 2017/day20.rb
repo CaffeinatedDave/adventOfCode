@@ -1008,26 +1008,25 @@ input.split("\n").each do |line|
     hash[param[0]] = []
 
     xyz = param[2,param.length].split(",").each do |x|
-      hash[param[0]] << x.scan(/[0-9]/).join.to_i
+      hash[param[0]] << x.scan(/[\-0-9]/).join.to_i
     end
 
   end
   instructions << hash
 end
 
-closestDist = 999999999
-closest = -1
-
 slowestDist = 99999
-lowestAcc = 9999999
+lowestAcc = 99999
 slowest = -1
 
 # lazy, but after 25k iterations, most particles should be out of range of others
 # Logic: Min acc is 2, max positional co-ord is ~12k
-(1..25000).each do |it|
+(1..1).each do |it|
+
+  newPos = {}
+  newPos.default = []
 
   instructions.each_with_index do |ins, inx|
-
     ins["v"][0] += ins["a"][0]
     ins["v"][1] += ins["a"][1]
     ins["v"][2] += ins["a"][2]
@@ -1042,17 +1041,35 @@ slowest = -1
 
     if acc < lowestAcc or (acc == lowestAcc and dist < slowestDist)
       lowestAcc = acc
+      slowestDist = dist
       slowest = inx
     end
 
-    if dist < closestDist
-      closestDist = dist
-      closest = inx
+    position = "#{ins["p"][0]},#{ins["p"][1]},#{ins["p"][2]}"
+
+    newPos[position] << ins
+
+    print "#{position} :: #{newPos[position].take(2).join(",")}"
+    if newPos[position].length > 2
+      print ",... (#{newPos[position].length})"
+    end
+    puts ""
+  end
+
+  if (it == 1)
+    puts "Particle #{slowest} is slowest at a max acc of #{lowestAcc}"
+  end
+
+  newIns = []
+
+  newPos.each do |k, v|
+    puts "#{k} :: #{v.join(", ")}"
+    if v.length == 1
+      newIns << v[0]
     end
   end
 
-  if it == 1
-    puts "Particle #{slowest} is closest at a max acc of #{lowestAcc}"
-    puts "Particle #{closest} is closest at a distance of #{closestDist}"
-  end
+  instructions = newIns
+
+  puts "#{it}: #{instructions.length} remain..."
 end
