@@ -119,12 +119,12 @@ def rotate(grid)
   lines = grid.split('/')
   ptr = 0
   result = []
-  while ptr < lines.length
-    ptr += 1
+  while ptr < lines[0].length
     newl = ""
     lines.each do |l|
-      newl += l[lines.length - ptr]
+      newl += l[ptr]
     end
+    ptr += 1
     result << newl
   end
   return result.join('/')
@@ -138,6 +138,17 @@ def flip(grid)
   return newGrid.join('/')
 end
 
+def permutate(grid)
+  leftGrid = rotate(grid)
+  rotations = [grid, leftGrid, grid.reverse, leftGrid.reverse]
+
+  perms = []
+  rotations.each do |r|
+    perms << r
+    perms << flip(r)
+  end
+  return perms
+end
 
 def splitGrid(size, start)
   grids = []
@@ -145,8 +156,8 @@ def splitGrid(size, start)
     ptr = 0
     while ptr < rows[0].length
       newGrid = []
-      (0..size-1).each do |x|
-        newGrid << rows[ptr, size]
+      rows.each do |r|
+        newGrid << r[ptr, size]
       end
       grids << newGrid.join("/")
       ptr += size
@@ -155,9 +166,27 @@ def splitGrid(size, start)
   return grids
 end
 
+def buildStringFromGrid(grids)
+  gridSize = Math.sqrt(grids.length).to_i
+
+  answer = []
+  grids.each_slice(gridSize) do |tiles|
+    (0..(tiles[0].split('/').length - 1)).each do |x|
+      bigRow = ""
+      tiles.each do |t|
+        bigRow += t.split('/')[x]
+      end
+      answer << bigRow
+    end
+  end
+
+  return answer.join('/')
+end
+
 start = ".#./..#/###"
 
-(1..2).each do |iter|
+(1..18).each do |iter|
+
   grids = []
 
   if (start.split('/').length % 2 == 0)
@@ -168,41 +197,21 @@ start = ".#./..#/###"
 
   afterGrids = []
   grids.each do |g|
-    searchSpace = []
-
-    leftg = rotate(g)
-    rotations = [g, leftg, g.reverse, leftg.reverse]
-
-    rotations.each do |r|
-      searchSpace << r
-      searchSpace << flip(r)
-    end
+    searchSpace = permutate(g)
 
     searchSpace.each do |s|
       next if rules[s].nil?
 
-      afterGrids << rules[s]
+      afterGrids += [rules[s]]
       break # lazy way of filtering out the duplicates...
     end
   end
 
-  gridSize = Math.sqrt(afterGrids.length).to_i
-  answer = []
-  afterGrids.each_slice(gridSize) do |rows|
-    bigRow = []
-    (0..gridSize-1).each do |p|
-      bigRow << rows[p]
-    end
-    answer << bigRow.join
+  start = buildStringFromGrid(afterGrids)
+
+  if iter == 5
+    puts "After 5: #{start.scan('#').length}"
   end
-
-  start = answer.join("/")
-
-  start.split('/').each do |p|
-    puts p
-  end
-
-  puts ""
 end
 
-puts start.scan('#').length
+puts "After 18: #{start.scan('#').length}"
