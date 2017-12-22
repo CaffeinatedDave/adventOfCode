@@ -24,22 +24,6 @@ input = "#.###...#..#..#...##.####
 .######.......#.#.##.#.#.
 .##..#.###.....##.#.#...#"
 
-grid = {}
-grid.default = nil
-
-input.split("\n").each_with_index do |l, y|
-  grid[y] = {}
-  grid[y].default = "."
-  l.split("").each_with_index do |c, x|
-    grid[y][x] = c
-  end
-end
-
-# It just is, ok....
-posX = 12
-posY = 12
-dir = "N"
-
 leftTurn = {
   "N" => "W",
   "W" => "S",
@@ -58,41 +42,8 @@ reverse = {
   "E" => "W",
   "W" => "E"
 }
-infecting = 0
 
-(1..10000000).each do |x|
-  case grid[posY][posX]
-    when '.'
-      dir = leftTurn[dir]
-      grid[posY][posX] = 'W'
-    when 'W'
-      grid[posY][posX] = '#'
-      infecting += 1
-    when '#'
-      dir = rightTurn[dir]
-      grid[posY][posX] = 'F'
-    when 'F'
-      dir = reverse[dir]
-      grid[posY][posX] = '.'
-  end
-
-  case dir
-    when "N"
-      posY -= 1
-    when "E"
-      posX += 1
-    when "S"
-      posY += 1
-    when "W"
-      posX -= 1
-  end
-
-  if grid[posY].nil?
-    grid[posY] = {}
-    grid[posY].default = "."
-  end
-end
-
+def drawGrid(grid)
   minX = 0
   minY = 0
   maxX = 0
@@ -126,6 +77,104 @@ end
     puts ""
   end
   puts""
+end
 
+
+grid = {}
+grid.default = nil
+
+input.split("\n").each_with_index do |l, y|
+  grid[y] = {}
+  grid[y].default = "."
+  l.split("").each_with_index do |c, x|
+    grid[y][x] = c
+  end
+end
+
+# It just is, ok....
+posX = 12
+posY = 12
+dir = "N"
+
+infecting = 0
+(1..10000).each do |x|
+  case grid[posY][posX]
+    when '.'
+      dir = leftTurn[dir]
+      grid[posY][posX] = '#'
+      infecting += 1
+    when '#'
+      dir = rightTurn[dir]
+      grid[posY][posX] = '.'
+  end
+
+  case dir
+    when "N"
+      posY -= 1
+    when "E"
+      posX += 1
+    when "S"
+      posY += 1
+    when "W"
+      posX -= 1
+  end
+
+  if grid[posY].nil?
+    grid[posY] = {}
+    grid[posY].default = "."
+  end
+end
 
 puts "After 10k, infected turns = #{infecting}"
+
+grid = {}
+grid.default = nil
+
+input.split("\n").each_with_index do |l, y|
+  grid[y] = {}
+  grid[y].default = "."
+  l.split("").each_with_index do |c, x|
+    grid[y][x] = c
+  end
+end
+
+# It just is, ok....
+posX = 12
+posY = 12
+dir = "N"
+
+infecting = 0
+(1..10000000).each do |x|
+  case grid[posY][posX]
+    when '.'
+      dir = leftTurn[dir]
+      grid[posY][posX] = 'W'
+    when 'W'
+      grid[posY][posX] = '#'
+      infecting += 1
+    when '#'
+      dir = rightTurn[dir]
+      grid[posY][posX] = 'F'
+    when 'F'
+      dir = reverse[dir]
+      grid[posY][posX] = '.'
+  end
+
+  case dir
+    when "N"
+      posY -= 1
+    when "E"
+      posX += 1
+    when "S"
+      posY += 1
+    when "W"
+      posX -= 1
+  end
+
+  if grid[posY].nil?
+    grid[posY] = {}
+    grid[posY].default = "."
+  end
+end
+
+puts "After 10M, infected turns = #{infecting}"
