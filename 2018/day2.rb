@@ -1,0 +1,293 @@
+input = "rvefnvyxzbodgpnpkumawhijsc
+rvefqtyxzsddglnppumawhijsc
+rvefqtywzbodglnkkubawhijsc
+rvefqpyxzbozglnpkumawhiqsc
+rvefqtyxzbotgenpkuyawhijsc
+rvefqtyxzbodglnlkumtphijsc
+rwefqtykzbodglnpkumawhijss
+rvynqtyxzbodglnpkumawrijsc
+rvefqtyxlbodgcnpkumawhijec
+rvefqtyxzbodmlnpnumawhijsx
+rvefqtyxzbqdbdnpkumawhijsc
+rvefqtyxzlodblnpkuiawhijsc
+rvefqtyizrodelnpkumawhijsc
+rveffjyxzgodglnpkumawhijsc
+rvefqjyxzbodalnpkumadhijsc
+rvefqtidzbodglnpkumawhdjsc
+hvefqtygzbodglnpkumawhijfc
+rzefqtyxzbodglfhkumawhijsc
+rmefqtyxzbolglnpkumaehijsc
+rnefqqyxzbodglnhkumawhijsc
+rvwfqvyxzbodglnpcumawhijsc
+rvefqtyxzbokgltpkumavhijsc
+rvefciyxzbodglnmkumawhijsc
+rvefptyxzbodglnpkuhashijsc
+rvefqtyxzrodglnpkxmawhiqsc
+rvefqtyxzbotglnpkumawriwsc
+rvufqtyxzbodglnplumawhijvc
+rvefutykzbodglnpkumaahijsc
+rvefqtyxqbodgllprumawhijsc
+rvegqttxzbodgllpkumawhijsc
+dvefqtyxzsodglnpkumawdijsc
+rvefqtyxkbodglnfkumawhijsj
+rvefqtyxzbodnlnpcumawhijnc
+rvefqtyxzbodglfpkuocwhijsc
+rvecqtyxzbbdganpkumawhijsc
+rvefytyxzbodglnpkubgwhijsc
+rvefxtyazbomglnpkumawhijsc
+rvefqgyxzbodglnpkumawyiksc
+avefqtyxzbodglnfkummwhijsc
+fvefqtyxzbbdglnpkumswhijsc
+rvefqtyxzxodglnpkumuuhijsc
+rvezqtyxzbydclnpkumawhijsc
+rvefqtyxzbohglnpkumawdijjc
+rvejqtyxzbodrlnpkumawhijsd
+rvefitzxzbxdglnpkumawhijsc
+rvefutyxzbvdglnikumawhijsc
+rvefqtyazbodgqnbkumawhijsc
+rvefqtyxzbolglnpkwmajhijsc
+rvefqtyxzjodglnpgwmawhijsc
+rvefhtyxzbodglbpaumawhijsc
+mvexqtyxzbodglnpkumawrijsc
+rvefqtyxwbodglnpkumawhbxsc
+rvefqtyxzbodgsnpkudawsijsc
+rvwfqtyxzbonglnwkumawhijsc
+rvefqtyxzjodglnpkfmawhwjsc
+rvefqtyxzbodglntkumughijsc
+rvefctyxzbodglnpkumawhiwsx
+avefqtyvzbodglnpkumawhijsb
+rfefqtyxzlodglnphumawhijsc
+rvefqtyxzfowglnpkumaehijsc
+rvhfvtyxzbodgqnpkumawhijsc
+rfefqtyxzbodglapkumuwhijsc
+rvefqclxzbodglnzkumawhijsc
+qvefqtyxzbodglnckumcwhijsc
+rvefqtyxzkodglnpkymawgijsc
+rvefqtyxzbodgfnpkumafhizsc
+rvefqtyxzbodglnxkumavhijsf
+rvevqtyxzbodgpnpkurawhijsc
+rvefqtyxziodglnpkubawhijss
+rrefqtpxzyodglnpkumawhijsc
+rvefqfyxzbodglcpkxmawhijsc
+rvefdtyxzbodglnpkumvwhijsn
+rverqtyxzbodglnpkwmawhijuc
+rvecjtyxzboxglnpkumawhijsc
+rvefqtyxzbodglnpkqmaxhifsc
+rtnfqtyxzbodglnpkumawhijmc
+lvefqtyxzbodelnpkumawhijsz
+dvefqtyxzbbdgvnpkumawhijsc
+rvefqlyhzbodglnpkumtwhijsc
+roefqtyxlbodglnpkumawhyjsc
+rvefqsydzjodglnpkumawhijsc
+rveybtyxzbodglnpkumawhijsn
+rvefqtyhzbodgvnpmumawhijsc
+rvefqxyazboddlnpkumawhijsc
+vvefqtyxzbohglqpkumawhijsc
+reefhtyxzbodglnpkkmawhijsc
+rvefqtyxzbodglnpkulowhijrc
+rveqqtyxzbodgknpkumawhijsk
+jvefqtqxzbodglnpkumawiijsc
+rvefqtyxzboxglnpvuqawhijsc
+rvefquyxzbodglwwkumawhijsc
+rvefqtyxzbodnlnpkumawhgjbc
+rvdfqthxdbodglnpkumawhijsc
+rvefqtyxzbodllnpkumawhujsb
+evefqtyxzboyglnpkumowhijsc
+rvefktyxzbomglnpzumawhijsc
+rvefqtyxzbodhlnnkrmawhijsc
+rvefqtyxrbodglnpkujaehijsc
+rvefqtyzzbodglnpkumrwhijsb
+evefqtyxzpodglfpkumawhijsc
+rvefqtyxibodglkpyumawhijsc
+rrefqtyxzbodglnpkudawhajsc
+rvifqtyxzbodglxpkumawhijlc
+rxefqtyxzbedglnpkumawhijsp
+rvnfqtyxzbopglnpkuqawhijsc
+rvefqtyxkbodglnpoumawoijsc
+dvefwtyxzbodglnpksmawhijsc
+rvkfqtyxzbodglnpkdmawhijsa
+rcefytyxzzodglnpkumawhijsc
+rvefqtkxzbodglnpktqawhijsc
+nvezqhyxzbodglnpkumawhijsc
+rrefqtyxzbodgunpkumpwhijsc
+rvefqtaxzbodgknpkumawhijic
+pvefqtyxzbodglnpkuxawsijsc
+rvefqtyxzbodglkpvumawhjjsc
+wvefqtyxzkodglnpkumawhhjsc
+rzefqtyxzbotglnpkumawhxjsc
+rvefqtxpzbodglnpkumawzijsc
+bgefqtyxzbodglnpkrmawhijsc
+rvefqlyxzbodglnpkumilhijsc
+cbefqtyxzbodglnpkumawhiesc
+rvefqtyxzbydelnpkumahhijsc
+rvefntyxzbodglnpkumaehijsw
+rverqtyxztodglopkumawhijsc
+rvefqtyxzdodgwrpkumawhijsc
+rvefqtyxibodglnikumawhtjsc
+qvafqtyxzbodglnpkurawhijsc
+rvefqtyxwbodglnpaumawoijsc
+rvefqtyxzoodglndknmawhijsc
+rvdfqtlxzyodglnpkumawhijsc
+rvefqtyxzbodglngfumawhinsc
+rsefqtyxzbodglnpkumawhijek
+rvoestyxzbodglnpkumawhijsc
+svefqtyxzboaglnprumawhijsc
+rvefqtybzbodgwnpkumawwijsc
+rvefqtyxzdwdglnpkvmawhijsc
+rvlfqtyxzbodglnpkrmawhixsc
+rvefqtyxwbodglepkumawhijsd
+rvefqtbxzbodglnqkumawhijmc
+rvefqtzxzbodglnpkumuzhijsc
+rvefqtyxzbodglnpkumawzwnsc
+rvwfqtyxzboiglnpkumawhijsg
+rtehotyxzbodglnpkudawhijsc
+rvegqtyxzbodglnpyumawhijsl
+rvecqtyxzbsdglnpkumawhojsc
+rvefqtyxzbodmlnpkumaghijfc
+rvefqtyxzxodglnpkumanvijsc
+rvefqtyxzbodglnbiugawhijsc
+lvefqtlxzbodglnplumawhijsc
+rvefqtyxvbodglnpkumaldijsc
+rmefqtyxzbodgvnpkuuawhijsc
+rvefqtyxzbodglnpkymeuhijsc
+rvefqtyxzuodganpsumawhijsc
+rxefqtyxzbodglnpkumgwhijwc
+rvefgtyxzbodglnpkudawxijsc
+ahefqtyxzbodglnpkumawhejsc
+rfefqtyxzbzdglnpkusawhijsc
+rvefqtyszqodgljpkumawhijsc
+rvefqtylzboiglnpkumrwhijsc
+rvefqtyxzltdglnpkumawhijsu
+rbefqtyxzbodglnpqumawhijsi
+rvefqtyozpodglnpkumawhijsa
+zvefqtyxzpopglnpkumawhijsc
+rvefqtyxzbodglnfkqmawhijsp
+rvefqtyxzbodgliakumawhijsf
+rvefqtymzrodgfnpkumawhijsc
+ivejqtyxzbodglnpkumawhijuc
+rvefqtyxzbodflnpkxwawhijsc
+dvrfqtyxzbodglnpkumashijsc
+rqefqtyxzbwdglnpkumawvijsc
+tvefqtkxzbodgltpkumawhijsc
+rvefdtyxzbodguxpkumawhijsc
+rveqqtyxvbodglnykumawhijsc
+rvefqtypzcovglnpkumawhijsc
+rvefqnyxzbosglnpkumdwhijsc
+rvefstjxzbodslnpkumawhijsc
+rvefqzyxzpodglnpkummwhijsc
+rvefqkyxzbodglnhgumawhijsc
+rvufqvyxzbodklnpkumawhijsc
+rvefotyxzhodglnpkumawhijsk
+rvefqtyxzbokglnpkumawvcjsc
+lvefqtyxzbolglnpkumawoijsc
+rvefqtywzoodglfpkumawhijsc
+rvehqtqxzbodglnpkumawhcjsc
+rqefqtyxzbodolnpkumjwhijsc
+rvefqtyxzbodglrpkunawgijsc
+rvefqtyxzbodglamkumawdijsc
+rvefvtyzzbodllnpkumawhijsc
+rvefqtyxzbldglnpfcmawhijsc
+rvefppyxzbodglnpkucawhijsc
+rvefquyuzbodglnpkumkwhijsc
+rvefqtyxzbodgqxpkumawhivsc
+rtefotyxzbodglnpkudawhijsc
+rvefqtyxzbodgbnmkuzawhijsc
+ivefqtyxzbodgsnpkumzwhijsc
+rvhfqtyxzbodolnpkumawhijsz
+rvefvtyxzbodwlnpkusawhijsc
+riemqtyxzbodglnpkumawhiasc
+rvtfqtyxzbqdglnpkumawuijsc
+raesqtyxzbodglnpkumawhijsj
+rvefqtyxzbodalmpkumawhihsc
+rvefqtlxzbodgznpkkmawhijsc
+rvefqbyxzbodglgpkubawhijsc
+rvefqtyxnbodgxnpkumswhijsc
+rvefqtyxzkodvlnukumawhijsc
+rvefqtyzzbocglnpkumafhijsc
+rvhfqtyxzbodglmpkumgwhijsc
+rvsfrtyxzbodnlnpkumawhijsc
+rvefqtyxzbxdglnpkujcwhijsc
+rvefqtyvzrodglnphumawhijsc
+reetatyxzbodglnpkumawhijsc
+rvefqtyxzbodglnpzumaoqijsc
+ovefqtyyzbodglnvkumawhijsc
+rvefqbyxzbodnlnpkumawhijsi
+xvefqtyxzbodgrnpkumawrijsc
+rvebqtyxzbodglnpkumazhiasc
+rqeretyxzbodglnpkumawhijsc
+rvefqtyxzyodglapkumvwhijsc
+rvesqxyxzbodglnpvumawhijsc
+rvefqtyxeborglnpkufawhijsc
+rvecqtyxzbodflnpkumawnijsc
+rvefdpyxtbodglnpkumawhijsc
+rvefqtyfzbodclnpkymawhijsc
+rvefqtywzbodglnpxumawhiusc
+rvefqtyxzbodglnpkumawzbjwc
+rvewqtyxdbodglnpxumawhijsc
+rvefqtyxzgocglnpkgmawhijsc
+rvufqtyxzbodggnpkuzawhijsc
+rvefqtynzlodgllpkumawhijsc
+rvedqtyxzbodghnpkumawhujsc
+rvefqtyxlbodgnnpkpmawhijsc
+rvefqtyxzboqglnpkzmawhijec
+rvefqtyxzbodglnpkfmwwyijsc
+rwefqtkxzbodzlnpkumawhijsc
+rvefqtyxvbodglnpkufawhyjsc
+rvefqtyxzbodgltpkumawhqmsc
+rvefctyxzbodglfpkumathijsc
+rvefqtyxzbodgfnpkuuawhijfc
+rvefqttxzbodglnpmumawhijwc
+rvefqtyxzbodglnpkqmawhihsj
+rvefqtyxzbsdglcnkumawhijsc
+rvbiqtyxzbodglnpkumawhijlc
+rnefqtylzvodglnpkumawhijsc
+mvefqtyxzbddglnpkumcwhijsc
+rvefwtyxzbodglnpkgmawhijxc
+rvefqtyxljodglnpkumxwhijsc
+rvefqtyxzbodglnpkuprwhijsd
+rcxfqtyxzbldglnpkumawhijsc
+rvetqtyxzbojglnpkumewhijsc
+rvxfqtyxzbtdglnpkbmawhijsc"
+
+values = input.split("\n")
+
+two = 0
+three = 0
+
+values.each do |v|
+  letters = Hash[*v.split("").inject(Hash.new(0)) { |h,v| h[v] += 1; h }.sort_by{|k,v| v}.select{|k,v| v > 1}.reverse.flatten]
+
+  two += 1 if letters.select{|k,v| v == 2}.size > 0
+  three += 1 if letters.select{|k,v| v == 3}.size > 0
+
+  puts letters.to_s
+  puts "two: #{two} -- three: #{three}"
+end
+
+checksum = two * three
+
+puts "Checksum: #{checksum}"
+
+
+values.each do |v1|
+  values.each do |v2|
+    next if v1 == v2
+
+    split1 = v1.split("")
+    split2 = v2.split("")
+
+    errors = 0
+    common = ""
+    split1.each_with_index do |k,v|
+      if split1[v] == split2[v]
+        common += split1[v]
+      else
+        errors += 1
+      end
+    end
+
+    if errors == 1
+      puts "Common string: #{common}"
+    end
+  end
+end
